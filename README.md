@@ -75,4 +75,18 @@ This is a web application for anonymously reporting corruption incidents. The ap
 
 ## License
 
+# Database Design – Anti-Corruption Reporting System
+
+## Overview
+This project focuses on designing and managing a MySQL database for storing complaint and user data.
+
+## Tools Used
+- MySQL
+
+## Key Work
+- Designed database schema (tables, relationships)
+- Wrote SQL queries (JOIN, GROUP BY)
+- Managed and stored structured data
+- Ensured data accuracy and consistency
+
 This project is licensed under the MIT License - see the LICENSE file for details.
